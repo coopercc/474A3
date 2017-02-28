@@ -2,6 +2,7 @@ $(function() {
 	var dataset = [];
 		//city, state, 2015_murders, 2016_murders, change, latitude, longitude
 	//MAP VARS BEGIN
+	//useless change
 	var murders_six = [];
 	var murders_five = [];
 	var changes = [];
